@@ -11,9 +11,7 @@ A complete backend application for user login and registration using Spring Boot
 ## Running the Project ##
 
 1. Install all the required modules listed above and ensure everything is up to date.
-2. Run the `DemoApplication.java` file and follow the prompts to register, receive a verification email, and enter the chatroom.
-
-Multiple people can register as users connecting to the same server and chat among themselves.
+2. Run the `DemoApplication.java` file and follow the prompts to register, receive a verification email, and become verified users.
 
 ## Future Contributions ##
 
